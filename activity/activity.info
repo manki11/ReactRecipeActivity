@@ -1,0 +1,6 @@
+[Activity]
+name = DemoActivity
+activity_version = 1
+bundle_id = org.sugarlabs.Demo
+exec = sugar-activity-web
+icon = activity-icon
